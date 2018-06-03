@@ -1,0 +1,5 @@
+pierre	-rw,soft,intr,rsize=8192,wsize=8192   192.168.17.10:/home/pierre
+musique	-rw,soft,intr,rsize=8192,wsize=8192   192.168.17.10:/share/musique
+photos	-rw,soft,intr,rsize=8192,wsize=8192   192.168.17.10:/share/photos
+video	-rw,soft,intr,rsize=8192,wsize=8192   192.168.17.10:/share/video
+admin	-rw,soft,intr,rsize=8192,wsize=8192   192.168.17.10:/share/admin
