@@ -1,5 +1,4 @@
 # UbuntuConf
-# UbuntuConf
 
 Configuration automatisée pour client Ubuntu au sein du réseau local `192.168.17.x`.
 
