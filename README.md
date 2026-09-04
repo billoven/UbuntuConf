@@ -30,7 +30,7 @@ UbuntuConf/
 ### 1. Cloner le dépôt
 Utilisez votre jeton d'accès personnel (Token) GitHub pour cloner le projet :
 ```bash
-git clone https://github.com
+git clone https://github.com/billoven/UbuntuConf/
 cd UbuntuConf
 ```
 
